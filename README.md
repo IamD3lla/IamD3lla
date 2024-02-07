@@ -37,7 +37,7 @@ I'm a full stack developer who loves game development, WEB, and software develop
 
 ## 📦 Favorite repositories
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IamD3lla&repo=Shelf-Game&bg_color=000&border_color=9a0eea&show_icons=true&icon_color=d725de&title_color=9a0eea&text_color=FFF)]([https://github.com/IamD3lla/Shelf-Game](https://github.com/IamD3lla/Cassy-Clash))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IamD3lla&repo=Shelf-Game&bg_color=000&border_color=9a0eea&show_icons=true&icon_color=d725de&title_color=9a0eea&text_color=FFF)](https://github.com/IamD3lla/Cassy-Clash)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IamD3lla&repo=miniZelda&bg_color=000&border_color=9a0eea&show_icons=true&icon_color=fb7d07&title_color=fb7d07&text_color=FFF)](https://github.com/IamD3lla/miniZelda)
 
 ---
