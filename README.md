@@ -4,8 +4,6 @@
 
 ## 🧒 About me
 
-## 👋 About Me
-
 Software developer with experience in robotics software and backend development.
 
 Currently working with robotic systems using **C++ and Python in ROS2 environments**, building software that integrates hardware control, system logic, and distributed communication between components.
