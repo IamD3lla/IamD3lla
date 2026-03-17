@@ -3,7 +3,37 @@
 
 
 ## 🧒 About me
-I'm a full stack developer who loves game development, WEB, and software development in general!
+
+## 👋 About Me
+
+Software developer with experience in robotics software and backend development.
+
+Currently working with robotic systems using **C++ and Python in ROS2 environments**, building software that integrates hardware control, system logic, and distributed communication between components.
+
+I am also expanding my knowledge in **backend development with C# and .NET**, focusing on building scalable APIs, distributed systems, and cloud-based applications.
+
+### 🚀 Interests
+
+* Backend Engineering (.NET / C#)
+* Distributed Systems & Microservices
+* Robotics Software
+* Cloud Computing
+* High-performance systems
+
+### 🛠 Tech Stack
+
+* **Languages:** C++, C#, Python, SQL
+* **Backend:** .NET / ASP.NET Core
+* **Robotics:** ROS2
+* **Tools:** Docker, Git, Linux
+
+### 📚 Currently Learning
+
+* Advanced .NET backend development
+* Microservices architecture
+* Cloud platforms (Azure)
+
+Always interested in building systems that connect **software with real-world engineering problems**.
 
 ## 💻 Skills
 
