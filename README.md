@@ -15,7 +15,6 @@ I'm a full stack developer who loves game development, WEB, and software develop
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -30,15 +29,12 @@ I'm a full stack developer who loves game development, WEB, and software develop
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
 ## 📦 Favorite repositories
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IamD3lla&repo=Cassy-Clash&bg_color=000&border_color=9a0eea&show_icons=true&icon_color=d725de&title_color=9a0eea&text_color=FFF)](https://github.com/IamD3lla/Cassy-Clash)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IamD3lla&repo=miniZelda&bg_color=000&border_color=9a0eea&show_icons=true&icon_color=fb7d07&title_color=fb7d07&text_color=FFF)](https://github.com/IamD3lla/miniZelda)
 
 ---
 
