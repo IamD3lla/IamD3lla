@@ -68,7 +68,6 @@ Always interested in building systems that connect **software with real-world en
 ### 💾 My Github infos!!!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamD3lla&theme=midnight-purple&background=000&border=9a0eea&dates=FFF)](https://git.io/streak-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamD3lla&theme=transparent&bg_color=000&border_color=9a0eea&show_icons=true&icon_color=30A3DC&title_color=9a0eea&text_color=FFF)
 
 ---
